@@ -495,6 +495,6 @@ ENDM
 
 	newgroup
 	map_const WAVERING_FALLS_OUTSIDE,						10, 10 ;
-	map_const WAVERING_FALLS_1F,							25, 10 ;						
+	map_const WAVERING_FALLS_1F,							10, 10 ;						
 
 NUM_MAP_GROUPS EQU const_value ; 26

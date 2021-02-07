@@ -1778,10 +1778,10 @@ ROMX bank #1:
            $746b = HappinessData_DaisysGrooming
            $746e = CopyPokemonName_Buffer1_Buffer3
            $747a = DummyPredef1
-  SECTION: $747b-$760a ($0190 bytes) ["Map Blocks 4"]
+  SECTION: $747b-$7542 ($00c8 bytes) ["Map Blocks 4"]
            $747b = WaveringFallsOutside_Blocks
            $74df = WaveringFalls1F_Blocks
-    SLACK: $09f5 bytes
+    SLACK: $0abd bytes
 
 ROMX bank #2:
   SECTION: $4000-$7830 ($3831 bytes) ["bank2"]
