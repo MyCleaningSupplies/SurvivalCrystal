@@ -1045,3 +1045,11 @@ BetaBlank_Blocks: ; unreferenced
 
 GoldenrodDeptStoreRoof_Blocks:
 	INCBIN "maps/GoldenrodDeptStoreRoof.blk"
+
+SECTION "Map Blocks 4", ROMX
+
+WaveringFallsOutside_Blocks:
+INCBIN "maps/WaveringFallsOutside.blk"
+
+WaveringFalls1F_Blocks:
+INCBIN "maps/WaveringFalls1F.blk"
