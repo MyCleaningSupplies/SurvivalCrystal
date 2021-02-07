@@ -1778,10 +1778,10 @@ ROMX bank #1:
            $746b = HappinessData_DaisysGrooming
            $746e = CopyPokemonName_Buffer1_Buffer3
            $747a = DummyPredef1
-  SECTION: $747b-$76e9 ($026f bytes) ["Map Blocks 4"]
+  SECTION: $747b-$760a ($0190 bytes) ["Map Blocks 4"]
            $747b = WaveringFallsOutside_Blocks
            $74df = WaveringFalls1F_Blocks
-    SLACK: $0916 bytes
+    SLACK: $09f5 bytes
 
 ROMX bank #2:
   SECTION: $4000-$7830 ($3831 bytes) ["bank2"]
@@ -38767,8 +38767,8 @@ ROMX bank #108:
            $6083 = Route10PokecenterSign
            $6086 = PowerPlantSignText
            $6099 = Route10North_MapEvents
-           $60b3 = WaveringFallsOutside_MapEvents
-           $60b5 = WaveringFallsOutside_MapScripts
+           $60b3 = WaveringFallsOutside_MapScripts
+           $60b5 = WaveringFallsOutside_MapEvents
            $60bf = WaveringFalls1F_MapScripts
            $60c1 = WaveringFalls1F_MapEvents
     SLACK: $1f34 bytes

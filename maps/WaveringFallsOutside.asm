@@ -1,15 +1,15 @@
     object_const_def
 
-WaveringFallsOutside_MapEvents:
+WaveringFallsOutside_MapScripts:
     def_scene_scripts
 
     def_callbacks
 
-WaveringFallsOutside_MapScripts:
+WaveringFallsOutside_MapEvents:
     db 0, 0 ; filler
 
     def_warp_events
-    warp_event 10, 2, WAVERING_FALLS_1F, 1
+    warp_event 10, 2, WAVERING_FALLS_OUTSIDE, 1
 
     def_coord_events
 

@@ -38293,8 +38293,8 @@
 6c:6083 Route10PokecenterSign
 6c:6086 PowerPlantSignText
 6c:6099 Route10North_MapEvents
-6c:60b3 WaveringFallsOutside_MapEvents
-6c:60b5 WaveringFallsOutside_MapScripts
+6c:60b3 WaveringFallsOutside_MapScripts
+6c:60b5 WaveringFallsOutside_MapEvents
 6c:60bf WaveringFalls1F_MapScripts
 6c:60c1 WaveringFalls1F_MapEvents
 6d:4000 MomPhoneGreetingText
