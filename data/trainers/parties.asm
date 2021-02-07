@@ -347,6 +347,12 @@ YoungsterGroup:
 	db  4, RATTATA
 	db -1 ; end
 
+	db "HOLY@", TRAINERTYPE_NORMAL
+	db 4, CROCONAW
+	db 3, GEODUDE
+	db 6, PORYGON
+	db -1 ;
+
 	; YOUNGSTER (3)
 	db "ALBERT@", TRAINERTYPE_NORMAL
 	db  6, RATTATA

@@ -107,10 +107,13 @@
 	const MUSIC_SUICUNE_BATTLE               ; 64
 	const MUSIC_BATTLE_TOWER_LOBBY           ; 65
 	const MUSIC_MOBILE_CENTER                ; 66
-	const MUSIC_CELESTIAL_TOWER				; 67
+	const MUSIC_CELESTIAL_TOWER				 ; 67
+	const MUSIC_UNOVA_ELITE_4				 ; 68
 
 ; GetMapMusic picks music for this value (see home/map.asm)
-MUSIC_MAHOGANY_MART EQU $64
+MUSIC_MAHOGANY_MART EQU $fc
+MUSIC_RADIO_TOWER EQU $fd
+
 
 ; ExitPokegearRadio_HandleMusic uses these values
 RESTART_MAP_MUSIC EQU $fe

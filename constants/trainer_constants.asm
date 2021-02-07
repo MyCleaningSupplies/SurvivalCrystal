@@ -112,6 +112,7 @@ KRIS EQU __trainer_class__
 	trainerclass YOUNGSTER ; 16
 	const JOEY1
 	const MIKEY
+	const HOLY
 	const ALBERT
 	const GORDON
 	const SAMUEL

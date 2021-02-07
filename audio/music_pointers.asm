@@ -96,6 +96,8 @@ Music:
 	dba Music_Printer
 	dba Music_PostCredits
 	dba Music_CelestialTower
+	dba Music_UnovaEliteFourBattle
+	
 ; new to Crystal
 	dba Music_Clair
 	dba Music_MobileAdapterMenu

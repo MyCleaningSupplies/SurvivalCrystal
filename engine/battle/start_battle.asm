@@ -134,11 +134,11 @@ PlayBattleMusic:
 	jr nz, .kantotrainer
 
 .johtotrainer
-	ld de, MUSIC_JOHTO_TRAINER_BATTLE
+	ld de, MUSIC_ROCKET_BATTLE
 	jr .done
 
 .kantotrainer
-	ld de, MUSIC_KANTO_TRAINER_BATTLE
+	ld de, MUSIC_ROCKET_BATTLE
 
 .done
 	call PlayMusic

@@ -142,6 +142,7 @@ INCLUDE "audio/music/postcredits.asm"
 
 SECTION "New Songs", ROMX
 INCLUDE "audio/music/celestialtower.asm"
+INCLUDE "audio/music/unovaelite4.asm"
 
 
 SECTION "Sound Effects", ROMX
