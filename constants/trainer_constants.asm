@@ -469,6 +469,7 @@ KRIS EQU __trainer_class__
 	const PHILLIP
 	const LEONARD
 	const ANTHONY2
+	const GEOFF
 	const BENJAMIN
 	const ERIK
 	const MICHAEL

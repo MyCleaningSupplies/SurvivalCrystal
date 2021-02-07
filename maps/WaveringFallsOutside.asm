@@ -98,5 +98,5 @@ WaveringFallsOutside_MapEvents:
 
     def_object_events
     object_event 5, 12, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MachopPokeBallScript, EVENT_GOT_TOTODILE_FROM_ELM
-    object_event 12, 2, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 1, TrainerYoungsterHoly, -1
+    object_event 10, 2, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 1, TrainerYoungsterHoly, -1
 

@@ -258,7 +258,7 @@ ROM0 bank #0:
            $1082 = DummyChar
            $1083 = NextChar
            $1087 = CheckDict
-           $1122 = CheckDict.__8574
+           $1122 = CheckDict.__8576
            $114c = CheckDict.not_diacritic
            $115c = CheckDict.hiragana_dakuten
            $115e = CheckDict.place_dakuten
@@ -573,9 +573,9 @@ ROM0 bank #0:
            $21a5 = LoadMetatiles.row
            $21a9 = LoadMetatiles.col
            $21b2 = LoadMetatiles.ok
-           $21d8 = LoadMetatiles.next_8737
-           $21eb = LoadMetatiles.next_8742
-           $21fe = LoadMetatiles.next_8747
+           $21d8 = LoadMetatiles.next_8739
+           $21eb = LoadMetatiles.next_8744
+           $21fe = LoadMetatiles.next_8749
            $2225 = LoadMetatiles.ok2
            $222a = ReturnToMapFromSubmenu
            $2238 = CheckWarpTile
@@ -1890,10 +1890,10 @@ ROMX bank #2:
            $44d3 = QueueFollowerFirstStep.up
            $44d7 = QueueFollowerFirstStep.same_xy
            $44d9 = _Sine
-           $44e5 = _Sine.negative_9408
-           $44ef = _Sine.apply_9408
-           $4503 = _Sine.even_9408
-           $450b = _Sine.sinetable_9408
+           $44e5 = _Sine.negative_9410
+           $44ef = _Sine.apply_9410
+           $4503 = _Sine.even_9410
+           $450b = _Sine.sinetable_9410
            $454b = GetPredefPointer
            $456b = PredefPointers
            $456b = LearnMovePredef
@@ -7585,7 +7585,7 @@ ROMX bank #13:
     SLACK: $011e bytes
 
 ROMX bank #14:
-  SECTION: $4000-$7a73 ($3a74 bytes) ["Enemy Trainers"]
+  SECTION: $4000-$7a81 ($3a82 bytes) ["Enemy Trainers"]
            $4000 = AI_SwitchOrTryItem
            $4032 = AI_SwitchOrTryItem.ok
            $4041 = DontSwitch
@@ -7987,30 +7987,30 @@ ROMX bank #14:
            $6e37 = Rival2Group
            $6f27 = GuitaristGroup
            $6f43 = HikerGroup
-           $7099 = BikerGroup
-           $710e = BlaineGroup
-           $7129 = BurglarGroup
-           $715c = FirebreatherGroup
-           $71b4 = JugglerGroup
-           $7213 = BlackbeltGroup
-           $729d = ExecutiveMGroup
-           $730f = PsychicGroup
-           $73c5 = PicnickerGroup
-           $7525 = CamperGroup
-           $764c = ExecutiveFGroup
-           $7688 = SageGroup
-           $7716 = MediumGroup
-           $776d = BoarderGroup
-           $7797 = PokefanMGroup
-           $7858 = KimonoGirlGroup
-           $7894 = TwinsGroup
-           $7954 = PokefanFGroup
-           $79a9 = RedGroup
-           $79d3 = BlueGroup
-           $79fe = OfficerGroup
-           $7a13 = GruntFGroup
-           $7a59 = MysticalmanGroup
-    SLACK: $058c bytes
+           $70a7 = BikerGroup
+           $711c = BlaineGroup
+           $7137 = BurglarGroup
+           $716a = FirebreatherGroup
+           $71c2 = JugglerGroup
+           $7221 = BlackbeltGroup
+           $72ab = ExecutiveMGroup
+           $731d = PsychicGroup
+           $73d3 = PicnickerGroup
+           $7533 = CamperGroup
+           $765a = ExecutiveFGroup
+           $7696 = SageGroup
+           $7724 = MediumGroup
+           $777b = BoarderGroup
+           $77a5 = PokefanMGroup
+           $7866 = KimonoGirlGroup
+           $78a2 = TwinsGroup
+           $7962 = PokefanFGroup
+           $79b7 = RedGroup
+           $79e1 = BlueGroup
+           $7a0c = OfficerGroup
+           $7a21 = GruntFGroup
+           $7a67 = MysticalmanGroup
+    SLACK: $057e bytes
 
 ROMX bank #15:
   SECTION: $4000-$7e85 ($3e86 bytes) ["Battle Core"]
@@ -9619,10 +9619,10 @@ ROMX bank #18:
            $5b2f = UpdateCelebiPosition.done
            $5b30 = UpdateCelebiPosition.FreezeCelebiPosition
            $5b3b = CelebiEvent_Cosine
-           $5b48 = CelebiEvent_Cosine.negative_28648
-           $5b52 = CelebiEvent_Cosine.apply_28648
-           $5b66 = CelebiEvent_Cosine.even_28648
-           $5b6e = CelebiEvent_Cosine.sinetable_28648
+           $5b48 = CelebiEvent_Cosine.negative_28650
+           $5b52 = CelebiEvent_Cosine.apply_28650
+           $5b66 = CelebiEvent_Cosine.even_28650
+           $5b6e = CelebiEvent_Cosine.sinetable_28650
            $5bae = GetCelebiSpriteTile
            $5bd0 = GetCelebiSpriteTile.Frame1
            $5bd4 = GetCelebiSpriteTile.Frame2
@@ -15822,10 +15822,10 @@ ROMX bank #35:
            $46d8 = WipeLYOverrides
            $46ef = WipeLYOverrides.wipe
            $46f7 = StartTrainerBattle_DrawSineWave
-           $4702 = StartTrainerBattle_DrawSineWave.negative_54126
-           $470c = StartTrainerBattle_DrawSineWave.apply_54126
-           $4720 = StartTrainerBattle_DrawSineWave.even_54126
-           $4728 = StartTrainerBattle_DrawSineWave.sinetable_54126
+           $4702 = StartTrainerBattle_DrawSineWave.negative_54128
+           $470c = StartTrainerBattle_DrawSineWave.apply_54128
+           $4720 = StartTrainerBattle_DrawSineWave.even_54128
+           $4728 = StartTrainerBattle_DrawSineWave.sinetable_54128
            $4768 = StartTrainerBattle_ZoomToBlack
            $478c = StartTrainerBattle_ZoomToBlack.done
            $4792 = StartTrainerBattle_ZoomToBlack.boxes
@@ -16147,10 +16147,10 @@ ROMX bank #35:
            $672a = Sprites_Cosine
            $672a = UnusedSpriteAnimGFX.DeletedGFX
            $672c = Sprites_Sine
-           $6737 = Sprites_Sine.negative_55505
-           $6741 = Sprites_Sine.apply_55505
-           $6755 = Sprites_Sine.even_55505
-           $675d = Sprites_Sine.sinetable_55505
+           $6737 = Sprites_Sine.negative_55507
+           $6741 = Sprites_Sine.apply_55507
+           $6755 = Sprites_Sine.even_55507
+           $675d = Sprites_Sine.sinetable_55507
            $679d = AnimateEndOfExpBar
            $67a8 = AnimateEndOfExpBar.load
            $67c6 = AnimateEndOfExpBar.AnimateFrame
@@ -22218,9 +22218,9 @@ ROMX bank #51:
            $672c = BattleAnim_IncAnonJumptableIndex
            $6732 = BattleAnim_Cosine
            $6734 = BattleAnim_Sine
-           $673f = BattleAnim_Sine.negative_69412
-           $6749 = BattleAnim_Sine.apply_69412
-           $675d = BattleAnim_Sine.even_69412
+           $673f = BattleAnim_Sine.negative_69414
+           $6749 = BattleAnim_Sine.apply_69414
+           $675d = BattleAnim_Sine.even_69414
            $6765 = BattleAnim_Sine_e
            $676b = BattleAnim_Cosine_e
            $677f = BattleAnimSineWave
@@ -25313,11 +25313,11 @@ ROMX bank #56:
            $6d23 = BillsPC_RefreshTextboxes.placeholder_string
            $6d2a = BillsPC_RefreshTextboxes.Placeholder
            $6d30 = CopyBoxmonSpecies
-           $6d79 = CopyBoxmonSpecies.done_76004
+           $6d79 = CopyBoxmonSpecies.done_76006
            $6d87 = CopyBoxmonSpecies.party
-           $6dac = CopyBoxmonSpecies.done_76005
+           $6dac = CopyBoxmonSpecies.done_76007
            $6db7 = CopyBoxmonSpecies.sBox
-           $6de1 = CopyBoxmonSpecies.done_76006
+           $6de1 = CopyBoxmonSpecies.done_76008
            $6def = BillsPC_GetSelectedPokemonSpecies
            $6e01 = BillsPC_UpdateSelectionCursor
            $6e0b = BillsPC_UpdateSelectionCursor.place_cursor
@@ -38801,7 +38801,7 @@ ROMX bank #108:
            $5fdd = LizNumberDeclinedText
            $5ffa = LizPhoneFullText
            $601f = LizRematchText
-  SECTION: $6042-$6235 ($01f4 bytes) ["Map Scripts 25"]
+  SECTION: $6042-$62d7 ($0296 bytes) ["Map Scripts 25"]
            $6042 = SilverCaveOutside_MapScripts
            $6047 = SilverCaveOutside_MapScripts.FlyPoint
            $604b = MtSilverPokecenterSign
@@ -38827,10 +38827,15 @@ ROMX bank #108:
            $61c5 = YoungsterHolyAfterText
            $61f2 = WaveringFallsOutside_MapEvents
            $6217 = WaveringFalls1F_MapScripts
-           $6219 = WaveringFalls1F_MapEvents
-           $6229 = WaveringFalls2F_MapScripts
-           $622b = WaveringFalls2F_MapEvents
-    SLACK: $1dca bytes
+           $6219 = TrainerHikerGeoff
+           $6225 = TrainerHikerGeoff.Script
+           $622d = HikerGeoffSeenText
+           $625d = HikerGeoffBeatenText
+           $627a = HikerGeoffAfterText
+           $62ae = WaveringFalls1F_MapEvents
+           $62cb = WaveringFalls2F_MapScripts
+           $62cd = WaveringFalls2F_MapEvents
+    SLACK: $1d28 bytes
 
 ROMX bank #109:
   SECTION: $4000-$7632 ($3633 bytes) ["Special Phone Text"]
