@@ -70,7 +70,7 @@ NewGame:
 	ld a, LANDMARK_PALLET_TOWN
 	ld [wPrevLandmark], a
 
-	ld a, SPAWN_PALLET
+	ld a, SPAWN_HOME
 	ld [wDefaultSpawnpoint], a
 
 	ld a, MAPSETUP_WARP
