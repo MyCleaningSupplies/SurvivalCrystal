@@ -1053,3 +1053,6 @@ INCBIN "maps/WaveringFallsOutside.blk"
 
 WaveringFalls1F_Blocks:
 INCBIN "maps/WaveringFalls1F.blk"
+
+WaveringFalls2F_Blocks:
+INCBIN "maps/WaveringFalls2F.blk"

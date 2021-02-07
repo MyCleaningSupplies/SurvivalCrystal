@@ -9,8 +9,9 @@ WaveringFalls1F_MapEvents:
     db 0,0 ; filler
 
     def_warp_events
-    warp_event 9, 16, WAVERING_FALLS_OUTSIDE, 2
-    
+    warp_event 9, 16, WAVERING_FALLS_OUTSIDE, 1
+    warp_event 15, 13, WAVERING_FALLS_2F, 1 
+
 
     def_coord_events
 

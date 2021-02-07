@@ -696,3 +696,4 @@ ENDM
 	map_attributes Route31VioletGate, ROUTE_31_VIOLET_GATE, $00, 0
 	map_attributes WaveringFallsOutside, WAVERING_FALLS_OUTSIDE, $00, 0
 	map_attributes WaveringFalls1F, WAVERING_FALLS_1F, $00, 0
+	map_attributes WaveringFalls2F, WAVERING_FALLS_2F, $00, 0
